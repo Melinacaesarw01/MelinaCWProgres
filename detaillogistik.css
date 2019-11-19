@@ -1,0 +1,66 @@
+.detail{
+  background-color: rgb(70,130,180);
+  width:700px;
+  height: 190px;
+  position: absolute;
+  top: 30%;
+  left: 320px;
+  border-radius: 10px;
+  padding: 30px 10px; 
+}.detail pre{
+	text-decoration:none;
+	font-family: Times New Roman;
+	line-height: 30px;
+	font-weight: bold;
+	color: white;
+	font-size: 25px;
+	float: center;
+	text-align: left;
+	/*position: absolute;*/
+	/*bottom: 300px;*/
+	margin-left: 25px;
+	line-height: 10px;
+}
+.detail a{
+  text-decoration: none;
+  background-color: blue;
+  font-weight: bold;
+  width: 70px;
+  height: 20px;
+  font-size: 19px;
+  padding: 5px 10px;
+  text-align: center;
+  color: white;
+  font-family: serif;
+  font-weight: bold;
+  border-radius: 7px;
+  position: absolute;
+  top:-50px;
+  left: -300px;
+}
+.form{
+  /*membuat lebar form penuh*/
+  width: 50%;
+  padding: 10px;
+  font-size: 11pt;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  border: 0;
+}
+.kirim{
+  background-color: blue;
+  text-decoration: none;
+  width: 10%;
+  height: 4%;
+  font-size: 19px;
+  padding: 5px 10px;
+  text-align: center;
+  color: white;
+  font-family: serif;
+  font-weight: bold;
+  border-radius: 0px;
+  position: absolute;
+  margin-top: 180px;
+  margin-left: 710px;
+
+}
